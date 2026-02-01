@@ -1,0 +1,9 @@
+# Ignore the password file
+password.txt
+
+# Bytecode and caches
+__pycache__/
+*.pyc
+
+# System files
+.DS_Store
